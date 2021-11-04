@@ -1,0 +1,54 @@
+/* Raster */
+.columns{
+  float: left;
+}
+
+/* Small */
+.small-1{
+  width: 100%;
+}
+
+/* Medium */
+.medium-1{
+  width: 50%;
+}
+.medium-2{
+  width: 100%;
+}
+
+/* Large */
+.large-1{
+  width: 33,333%;
+}
+.large-2{
+  width: 66,666%;
+}
+.large-3{
+  width: 100%;
+}
+
+
+header{
+  background-color: aqua;
+  height: 200px;
+}
+
+.article-one{
+  background-color: blueviolet;
+  height: 400px;
+}
+
+.article-two{
+  background-color:darkred;
+  height: 400px;
+}
+
+aside{
+  background-color: darkslategray;
+  height: 300px;
+}
+
+footer{
+background-color: hotpink;
+height: 200px;
+}
